@@ -1,16 +1,22 @@
 # spotify-ai-personalization-analysis
-Analysis of 114,000+ Spotify tracks to understand what drives popularity and how AI can improve recommendations.
 
-Dataset
+## Project Overview
+This project analyzes over 114,000 Spotify tracks to understand what drives song popularity and how AI can improve music recommendations.
 
-Kaggle Spotify Tracks Dataset
+## Dataset
+Kaggle Spotify Tracks Dataset (114,000+ tracks)
 
-Tools
-Power BI
-Power Query
-DAX
-Key Insights
-Popular tracks tend to have higher energy and danceability.
-Genre strongly influences audio characteristics.
-No single feature determines popularity.
-AI models should combine multiple signals.
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+
+## Key Insights
+- Popular tracks tend to have higher energy and danceability
+- Audio features differ across genres
+- No single feature explains popularity alone
+- AI recommendations should combine multiple signals
+
+## Files
+- Power BI Dashboard (.pbix)
+- PDF Report
