@@ -10,6 +10,7 @@ Kaggle Spotify Tracks Dataset (114,000+ tracks)
 - Power BI
 - Power Query
 - DAX
+- Excel
 
 ## Key Insights
 - Popular tracks tend to have higher energy and danceability
@@ -20,3 +21,4 @@ Kaggle Spotify Tracks Dataset (114,000+ tracks)
 ## Files
 - Power BI Dashboard (.pbix)
 - PDF Report
+- Screenshots 
